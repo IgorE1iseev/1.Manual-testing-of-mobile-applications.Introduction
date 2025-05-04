@@ -1,0 +1,1 @@
+# 1.Manual-testing-of-mobile-applications.Introduction
