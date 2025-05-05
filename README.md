@@ -64,6 +64,8 @@
 
 ## Задание 1
 [Общее решение](https://docs.google.com/spreadsheets/d/1OTpQfVai8zHlnKvAKkV0_VEjXCWvdKEn/edit?usp=drive_link&ouid=112984536529775476403&rtpof=true&sd=true)
+[Отдельно задание 1](https://docs.google.com/spreadsheets/d/1pSymVca04RL9yF5f1TvnqkL_1njNKi3V/edit?usp=drive_link&ouid=112984536529775476403&rtpof=true&sd=true)
 
 ## Задание 2
 [Общее решение](https://docs.google.com/spreadsheets/d/1OTpQfVai8zHlnKvAKkV0_VEjXCWvdKEn/edit?usp=drive_link&ouid=112984536529775476403&rtpof=true&sd=true)
+[Отдельно задание 2](https://docs.google.com/spreadsheets/d/1DIP2JaEgc3B9xmhE8hiZwC5AxEdQ-xtG/edit?usp=drive_link&ouid=112984536529775476403&rtpof=true&sd=true)
